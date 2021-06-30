@@ -1,0 +1,12 @@
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\bin\Debug\net5.0\ETicaret.Domain.deps.json
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\bin\Debug\net5.0\ETicaret.Domain.dll
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\bin\Debug\net5.0\ref\ETicaret.Domain.dll
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\bin\Debug\net5.0\ETicaret.Domain.pdb
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\obj\Debug\net5.0\ETicaret.Domain.csproj.AssemblyReference.cache
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\obj\Debug\net5.0\ETicaret.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\obj\Debug\net5.0\ETicaret.Domain.AssemblyInfoInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\obj\Debug\net5.0\ETicaret.Domain.AssemblyInfo.cs
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\obj\Debug\net5.0\ETicaret.Domain.csproj.CoreCompileInputs.cache
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\obj\Debug\net5.0\ETicaret.Domain.dll
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\obj\Debug\net5.0\ref\ETicaret.Domain.dll
+C:\Users\veyse\OneDrive\Masaüstü\PatikaKamp\ETicaret\ETicaret.Domain\obj\Debug\net5.0\ETicaret.Domain.pdb
